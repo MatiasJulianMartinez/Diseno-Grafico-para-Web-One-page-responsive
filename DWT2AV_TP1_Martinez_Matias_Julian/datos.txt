@@ -1,0 +1,5 @@
+Apellido y nombre: Matias Julian Martinez.
+Año de Cursada: Primer Año Segundo Cuatrimestre.
+Comision: DWT2AV Turno Tarde.
+Materia: Diseño Grafico para Web.
+Cantidad de Horas: 48hs.
